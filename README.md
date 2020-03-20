@@ -1,2 +1,2 @@
 # hello-world
-# this is an edit
+# Hi! Just a theoretical mathematics nerd trying to diversify her skills.
